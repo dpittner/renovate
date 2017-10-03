@@ -78,7 +78,7 @@
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
-    "babel-jest": "20.0.3",
+    "babel-jest": "21.2.0",
     "babel-plugin-transform-async-to-generator": "6.24.1",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "chai": "4.1.2",
@@ -88,7 +88,7 @@
     "eslint-config-prettier": "2.6.0",
     "eslint-plugin-import": "2.7.0",
     "eslint-plugin-promise": "3.5.0",
-    "jest": "20.0.4",
+    "jest": "21.2.1",
     "mkdirp": "0.5.1",
     "mockdate": "2.0.2",
     "prettier": "1.7.4",
